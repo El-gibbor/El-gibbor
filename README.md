@@ -7,12 +7,12 @@ Please feel free to reach out to me, I am eager to gain hands-on experience and 
 ### Attentive involvements  
 * Mastering Python Object Relational Mapping [SQLAchemy](https://docs.sqlalchemy.org/en/13/)  
 * Building a Web application (Visitors and facilities management system) for Dubai Real Estate Center [DREC](https://www.drec.ae/)
-*  Leveraging the power and versatility of the python Flask framework to try out build robust projects  
+*  Leveraging the power and versatility of python Flask framework to try out robust projects  
 ### Toolset  
 * <b>Programming and scripting languages</b> 
     * _Python, C language (DSA), Bash_
 * <b>Database and Frameworks</b> 
-    * _MYSQL, ORM -> SQLAlchemy and_
+    * _MYSQL, SQLAlchemy (ORM) and_
     * _Flask Framework_
 * <b>Version control</b>  
     * _Git and Github_  
@@ -21,8 +21,9 @@ Please feel free to reach out to me, I am eager to gain hands-on experience and 
 * [Airbnb clone - The console (introduction)](https://elgibbor.hashnode.dev/airbnb-clone-building-the-console-part-1-introduction)  
 * [What happens when you type](https://elgibbor.hashnode.dev/what-happens-when-you-type-gcc-mainc-c-compilation-process) `gcc main.c` - [C compilation process](https://elgibbor.hashnode.dev/what-happens-when-you-type-gcc-mainc-c-compilation-process)  
 * [A novel approach of Merging two sorted lists (Leetcode)](https://elgibbor.hashnode.dev/merge-two-sorted-lists-leetcode-21-a-novel-approach)  
+  <br></br>  
   
   
   
 _This is just me, I don't falsify expertise. my journey and career as a software engineer is a work in progress as I'm constantly learning and growing. I'm just beign transparent to where I am in my journey, hence, will attain competence in all my aspirations in no distant time._  
-  #### <p align="center">Shalom!</p>
+  #### <p align="center"><em>Shalom!👋</em></p>

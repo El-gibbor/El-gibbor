@@ -1,10 +1,10 @@
 ### <p align="center">Hi👋, It's an absolute pleasure to have you here!</p>
 I'm <b>Chiagoziem Elgibbor</b>, a curious learner focused on understanding the underlying architecture of software engineering.  
 
-Most of my time are spent and specialized in juggling a diverse set of skills, including web engineering and task automations in python, making my problem-solving skill more efficient through DSA in low-level programing in C. To acquire these proficiencies, I employ an approach of self-study, project-based practices and learning from bootcamps like [Alx Africa](https://www.alxafrica.com/).  
+Most of my time are spent and specialized in juggling a diverse set of skills, including web engineering and task automations in bash and Python, and also making my problem-solving skill more efficient through DSA in low-level programing in C. To acquire these proficiencies, I employ an approach of self-study, project-based learning and practices from bootcamps like [Alx Africa](https://www.alxafrica.com/).  
 
 Please feel free to reach out to me, I am eager to gain hands-on experience and enhance my abilities as a software engineer. If you have any intriguing project or resources that you believe would be a good fit for me, please reach out. I would be thrilled to contribute and learn from your expertise.  
-### Attentive involvements  
+### Attentive Involvements  
 * Mastering Python Object Relational Mapping - [SQLAchemy](https://docs.sqlalchemy.org/en/13/).  
 * Building a Web application (Visitors and facilities management system) for Dubai Real Estate Center [DREC](https://www.drec.ae/).
 *  Leveraging the power and versatility of python Flask framework to try out robust projects.  

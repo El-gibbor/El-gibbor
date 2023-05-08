@@ -19,8 +19,8 @@ Please feel free to reach out to me, I am eager to gain hands-on experience and 
 * <b>Linux, Vscode, Vim</b>  
 ### My Recently Published Articles 
 * My writings are published at [elgibbor.hashnode.dev](https://elgibbor.hashnode.dev/)  
-    * [Airbnb Clone - The Console. Part 2 (Base Model)](https://elgibbor.hashnode.dev/airbnb-clone-building-the-console-part-2-base-model)
-    * [Airbnb Clone - The Console. Part 1 (introduction)](https://elgibbor.hashnode.dev/airbnb-clone-building-the-console-part-1-introduction)  
+    * [Airbnb Clone - Building The Console. Part 2 (Base Model)](https://elgibbor.hashnode.dev/airbnb-clone-building-the-console-part-2-base-model)
+    * [Airbnb Clone - Building The Console. Part 1 (introduction)](https://elgibbor.hashnode.dev/airbnb-clone-building-the-console-part-1-introduction)  
     * [What happens when you type](https://elgibbor.hashnode.dev/what-happens-when-you-type-gcc-mainc-c-compilation-process) `gcc main.c` [- C compilation process](https://elgibbor.hashnode.dev/what-happens-when-you-type-gcc-mainc-c-compilation-process)  
     * [A novel approach of Merging two sorted lists (Leetcode)](https://elgibbor.hashnode.dev/merge-two-sorted-lists-leetcode-21-a-novel-approach)  
   <br></br>  

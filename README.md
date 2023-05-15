@@ -19,6 +19,7 @@ Please feel free to reach out to me, I am eager to gain hands-on experience and 
 * <b>Linux, Vscode, Vim</b>  
 ### My Recently Published Articles 
 * _My writings are published at_ &#10153; [elgibbor.hashnode.dev](https://elgibbor.hashnode.dev/)  
+    * [Airbnb Clone - Base Model. Part 3 (Data persistence)](https://elgibbor.hashnode.dev/airbnb-clone-the-base-model-part-3-data-persistence)
     * [Airbnb Clone - Building The Console. Part 2 (Base Model)](https://elgibbor.hashnode.dev/airbnb-clone-building-the-console-part-2-base-model)
     * [Airbnb Clone - Building The Console. Part 1 (introduction)](https://elgibbor.hashnode.dev/airbnb-clone-building-the-console-part-1-introduction)  
     * [What happens when you type](https://elgibbor.hashnode.dev/what-happens-when-you-type-gcc-mainc-c-compilation-process) `gcc main.c` [- C compilation process](https://elgibbor.hashnode.dev/what-happens-when-you-type-gcc-mainc-c-compilation-process)  

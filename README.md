@@ -5,6 +5,7 @@ Most of my time are spent and specialized in juggling a diverse set of skills, i
 
 Please feel free to reach out to me, I am eager to gain hands-on experience and enhance my abilities as a software engineer. If you have any intriguing project or resources that you believe would be a good fit for me, please reach out. I would be thrilled to contribute and learn from your expertise.  
 ### Attentive Involvements  
+* Reading [Programming Logic and Design](https://www.amazon.com/Programming-Logic-Design-Introductory-Farrell/dp/1133526519)
 * Mastering Python Object Relational Mapping - [SQLAchemy](https://docs.sqlalchemy.org/en/13/).  
 * Building a Web application (Visitors and facilities management system) for Dubai Real Estate Center [DREC](https://www.drec.ae/).
 *  Leveraging the power and versatility of python Flask framework to try out robust projects.  

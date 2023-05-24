@@ -10,16 +10,16 @@ Please feel free to reach out to me, I am eager to gain hands-on experience and 
 * Building a Web application (Visitors and facilities management system) for Dubai Real Estate Center [DREC](https://www.drec.ae/).
 *  Leveraging the power and versatility of python Flask framework to try out robust projects.  
 ### Toolset  
-* <b>Programming and scripting languages</b> 
-    * _Python, C language (DSA), Bash_
+* <b>Programming and Scripting Languages</b> 
+    * Python, C language (DSA), Bash
 * <b>Database and Frameworks</b> 
-    * _MYSQL, SQLAlchemy (ORM) and_
-    * _Flask Framework_
-* <b>Version control</b>  
-    * _Git and Github_  
-* <b>Linux, Vscode, Vim</b>  
+    * MYSQL, SQLAlchemy (ORM) and
+    * Flask Framework
+* <b>Version Control</b>  
+    * Git and Github  
+* <b>Linux, vscode, vim</b>  
 ### My Recently Published Articles 
-* _My writings are published at_ &#10153; [elgibbor.hashnode.dev](https://elgibbor.hashnode.dev/)  
+* My writings are published [Here](https://elgibbor.hashnode.dev/)  
     * [Airbnb Clone - Base Model. Part 3 (Data persistence)](https://elgibbor.hashnode.dev/airbnb-clone-the-base-model-part-3-data-persistence)
     * [Airbnb Clone - Building The Console. Part 2 (Base Model)](https://elgibbor.hashnode.dev/airbnb-clone-building-the-console-part-2-base-model)
     * [Airbnb Clone - Building The Console. Part 1 (introduction)](https://elgibbor.hashnode.dev/airbnb-clone-building-the-console-part-1-introduction)  

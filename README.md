@@ -4,7 +4,7 @@ I'm <b>Chiagoziem Elgibbor</b>, a curious learner focused on understanding the u
 Most of my time are spent and specialized in juggling a diverse set of skills, including web engineering and task automations in Python and Bash, and also making my problem-solving skill more efficient through DSA in low-level programing in C. To acquire these proficiencies, I employ an approach of self-study, project-based learning and practices from bootcamps like [Alx Africa](https://www.alxafrica.com/).  
 
 Please feel free to reach out to me, I am eager to gain hands-on experience and enhance my abilities as a software engineer. If you have any intriguing project or resources that you believe would be a good fit for me, please reach out. I would be thrilled to contribute and learn from your expertise.  
-### Attentive Involvements  
+### Attentive Involvements (Interests & Pursuits)
 * Reading [Programming Logic and Design](https://www.amazon.com/Programming-Logic-Design-Introductory-Farrell/dp/1133526519)
 * Mastering Python Object Relational Mapping - [SQLAchemy](https://docs.sqlalchemy.org/en/13/).  
 * Building a Web application (Visitors and facilities management system) for Dubai Real Estate Center [DREC](https://www.drec.ae/).

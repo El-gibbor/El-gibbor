@@ -1,7 +1,7 @@
 ### <p align="center">Hi👋, It's an absolute pleasure to have you here!</p>
 I'm <b>Chiagoziem Elgibbor</b>, a curious learner focused on understanding the underlying architecture of software engineering.  
 
-Most of my time are spent and specialized in juggling a diverse set of skills, including web engineering and task automations in Python and Bash, and also making my problem-solving skill more efficient through DSA in C low-level programing language. To acquire these proficiencies, I employ an approach of self-study, project-based learning and practices from bootcamps like [Alx Africa](https://www.alxafrica.com/).  
+Most of my time are spent and specialized in juggling a diverse set of skills, including web engineering and task automations in Python and Bash, and also making my problem-solving skill more efficient through DSA in C low-level programing. To acquire these proficiencies, I employ an approach of self-study, project-based learning and practices from bootcamps like [Alx Africa](https://www.alxafrica.com/).  
 
 Please feel free to reach out to me, I am eager to gain hands-on experience and enhance my abilities as a software engineer. If you have any intriguing project or resources that you believe would be a good fit for me, please reach out. I would be thrilled to contribute and learn from your expertise.  
 ### Attentive Involvements (Interests & Pursuits)

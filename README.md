@@ -20,11 +20,11 @@ Please feel free to reach out to me, I am eager to gain hands-on experience and 
 * <b>Linux, vscode, vim</b>  
 ### My Recently Published Articles 
 * My writings are published [Here](https://elgibbor.hashnode.dev/)  
-    * [Airbnb Clone - Base Model. Part 3 (Data persistence)](https://elgibbor.hashnode.dev/airbnb-clone-the-base-model-part-3-data-persistence)
-    * [Airbnb Clone - Building The Console. Part 2 (Base Model)](https://elgibbor.hashnode.dev/airbnb-clone-building-the-console-part-2-base-model)
-    * [Airbnb Clone - Building The Console. Part 1 (introduction)](https://elgibbor.hashnode.dev/airbnb-clone-building-the-console-part-1-introduction)  
-    * [What happens when you type](https://elgibbor.hashnode.dev/what-happens-when-you-type-gcc-mainc-c-compilation-process) `gcc main.c` [- C compilation process](https://elgibbor.hashnode.dev/what-happens-when-you-type-gcc-mainc-c-compilation-process)  
-    * [A novel approach of Merging two sorted lists (Leetcode)](https://elgibbor.hashnode.dev/merge-two-sorted-lists-leetcode-21-a-novel-approach)  
+    * Airbnb Clone - [Base Model. Part 3 (Data persistence)](https://elgibbor.hashnode.dev/airbnb-clone-the-base-model-part-3-data-persistence)
+    * Airbnb Clone - [Building The Console. Part 2 (Base Model)](https://elgibbor.hashnode.dev/airbnb-clone-building-the-console-part-2-base-model)
+    * Airbnb Clone - [Building The Console. Part 1 (introduction)](https://elgibbor.hashnode.dev/airbnb-clone-building-the-console-part-1-introduction)  
+    * C - compilation process - [What happens when you type](https://elgibbor.hashnode.dev/what-happens-when-you-type-gcc-mainc-c-compilation-process) `gcc main.c`  
+    * Merg two sorted lists (Leetcode) - [A novel approach](https://elgibbor.hashnode.dev/merge-two-sorted-lists-leetcode-21-a-novel-approach)  
   <br></br>  
   
   

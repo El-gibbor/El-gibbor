@@ -7,7 +7,7 @@ Please feel free to reach out to me, I am eager to gain hands-on experience and 
 ### Attentive Involvements (Interests & Pursuits)
 * Reading [Programming Logic and Design](https://www.amazon.com/Programming-Logic-Design-Introductory-Farrell/dp/1133526519)
 * Mastering Python Object Relational Mapping - [SQLAchemy](https://docs.sqlalchemy.org/en/13/).  
-* Building a Web application (Visitors and facilities management system) for Dubai Real Estate Center [DREC](https://www.drec.ae/).
+* working on a Web application (Visitors and facilities management system) for Dubai Real Estate Center [DREC](https://www.drec.ae/).
 *  Leveraging the power and versatility of python Flask framework to try out robust projects.  
 ### Toolset  
 * <b>Programming and Scripting Languages</b> 

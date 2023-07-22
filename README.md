@@ -19,10 +19,10 @@ I am eager to gain hands-on experience and enhance my abilities as a software en
     * Git and Github  
 * <b>Linux, vscode, vim</b>  
 ### My Recently Published Articles 
-* My writings are published [Here](https://elgibbor.hashnode.dev/)  
+* My writings are published [Here](https://elgibbor.hashnode.dev/)
+    * C `printf()` function - [A head start to write your own](https://elgibbor.hashnode.dev/writing-your-own-printf-function-a-head-start)
     * Airbnb Clone - [Base Model. Part 3 (Data persistence)](https://elgibbor.hashnode.dev/airbnb-clone-the-base-model-part-3-data-persistence)
-    * Airbnb Clone - [Building The Console. Part 2 (Base Model)](https://elgibbor.hashnode.dev/airbnb-clone-building-the-console-part-2-base-model)
-    * Airbnb Clone - [Building The Console. Part 1 (introduction)](https://elgibbor.hashnode.dev/airbnb-clone-building-the-console-part-1-introduction)  
+    * Airbnb Clone - [Building The Console. Part 2 (Base Model)](https://elgibbor.hashnode.dev/airbnb-clone-building-the-console-part-2-base-model) 
     * C - compilation process - [What happens when you type](https://elgibbor.hashnode.dev/what-happens-when-you-type-gcc-mainc-c-compilation-process) `gcc main.c`  
     * Merg two sorted lists (Leetcode) - [A novel approach](https://elgibbor.hashnode.dev/merge-two-sorted-lists-leetcode-21-a-novel-approach)  
   <br></br>  

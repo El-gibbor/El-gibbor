@@ -18,8 +18,7 @@ I am eager to gain hands-on experience and enhance my abilities as a software en
 * <b>Programming and Scripting Languages</b> 
     * Python💞, C language (DSA), Bash 🖥️
 * <b>Database and Frameworks</b>🗄️
-    * MYSQL, SQLAlchemy (ORM) and
-    * Flask Framework
+    * MYSQL, Sqlalchemy (ORM) and Flask
   
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)

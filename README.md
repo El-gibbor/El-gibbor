@@ -4,10 +4,7 @@ I'm <b>Chiagoziem Elgibbor</b>, a curious learner focused on understanding the u
 Most of my time are spent and specialized in juggling a diverse set of skills, including web engineering and task automations in Python and Bash, and also making my problem-solving skill more efficient through DSA in C low-level programing. To acquire these proficiencies, I employ an approach of self-study, project-based learning and practices from bootcamps like [Alx Africa](https://www.alxafrica.com/).  
 I am eager to gain hands-on experience and enhance my abilities as a software engineer. If you have any intriguing projects or resources that you believe would be a good fit for me, Please feel free to reach out to me. I would be thrilled to contribute and learn from your expertise.
 ### Connect with me    
-<a href="https://www.linkedin.com/in/elgibbor/"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/linkedin.svg" alt="Destiny Saturday | LinkedIn" width="21px"/></a>
-<a href="https://www.twitter.com/Mr_Elgibbor"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/twitter.svg" alt="Destined Codes | Twitter" width="21px"/></a>
-<a href="https://www.instagram.com/chiagoziem94"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/instagram.svg" alt="Destined Codes | Instagram" width="21px"/></a>
-<a href="https://hashnode.com/@Elgibbor"><img align="left" src="https://github.com/DestinedCodes/DestinedCodes/blob/main/images/devdotto.png" alt="Destined Codes | Dev.to" height="21px"/></a>
+
 </br>  
 ### Attentive Involvements (Interests & Pursuits) 💫
 * Reading [Programming Logic and Design](https://www.amazon.com/Programming-Logic-Design-Introductory-Farrell/dp/1133526519)

@@ -4,10 +4,10 @@ I'm <b>Chiagoziem Elgibbor</b>, a curious learner focused on understanding the u
 Most of my time are spent and specialized in juggling a diverse set of skills, including web engineering and task automations in Python and Bash, and also making my problem-solving skill more efficient through DSA in C low-level programing. To acquire these proficiencies, I employ an approach of self-study, project-based learning and practices from bootcamps like [Alx Africa](https://www.alxafrica.com/).  
 I am eager to gain hands-on experience and enhance my abilities as a software engineer. If you have any intriguing projects or resources that you believe would be a good fit for me, Please feel free to reach out to me. I would be thrilled to contribute and learn from your expertise.
 ### Connect with me  
-<a href="https://www.linkedin.com/in/elgibbor/"><img align="left" src="https://github.com/El-gibbor/El-gibbor/raw/main/images/linkedin.png" alt="Elgibbor | LinkedIn" width="26px"/></a>
-<a href="https://elgibbor.hashnode.dev/"><img align="left" src="https://github.com/El-gibbor/El-gibbor/raw/main/images/document.png" alt="Elgibbor | hashnode" width="26px"/></a>
-<a href="https://twitter.com/Mr_Elgibbor/"><img align="left" src="https://github.com/El-gibbor/El-gibbor/raw/main/images/twitter.png" alt="Elgibbor | twitter" width="26px"/></a>
-<a href="https://instagram.com/chiagoziem94/"><img align="left" src="https://github.com/El-gibbor/El-gibbor/raw/main/images/instagram.png" alt="Elgibbor | instagram" width="26px"/></a>
+<a href="https://www.linkedin.com/in/elgibbor/"><img align="left" src="https://github.com/El-gibbor/El-gibbor/raw/main/images/linkedin.png" alt="Elgibbor | LinkedIn" width="23px"/></a>
+<a href="https://elgibbor.hashnode.dev/"><img align="left" src="https://github.com/El-gibbor/El-gibbor/raw/main/images/document.png" alt="Elgibbor | hashnode" width="23px"/></a>
+<a href="https://twitter.com/Mr_Elgibbor/"><img align="left" src="https://github.com/El-gibbor/El-gibbor/raw/main/images/twitter.png" alt="Elgibbor | twitter" width="23px"/></a>
+<a href="https://instagram.com/chiagoziem94/"><img align="left" src="https://github.com/El-gibbor/El-gibbor/raw/main/images/instagram.png" alt="Elgibbor | instagram" width="23px"/></a>
 </br>
 ### Attentive Involvements (Interests & Pursuits) 💫  
 * Reading [Programming Logic and Design](https://www.amazon.com/Programming-Logic-Design-Introductory-Farrell/dp/1133526519)  
@@ -17,7 +17,7 @@ I am eager to gain hands-on experience and enhance my abilities as a software en
 ## Toolset 🛠  
 |Programming Lang. 🖥️|Scripting Lang.|Database🗄️|Frameworks|
 |:-----:|:------:|:------:|:-------:|
-|Python 💞|Python|MYSQL |Flask|
+|Python|Python|MYSQL |Flask|
 | C language (DSA)| Bash|SqlAchemy (ORM)|
   
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=black)
@@ -31,7 +31,7 @@ I am eager to gain hands-on experience and enhance my abilities as a software en
 * Airbnb Clone - [Building The Console. Part 2 (Base Model)](https://elgibbor.hashnode.dev/airbnb-clone-building-the-console-part-2-base-model) 
 * C - compilation process - [What happens when you type `gcc main.c`](https://elgibbor.hashnode.dev/what-happens-when-you-type-gcc-mainc-c-compilation-process)   
 * Merg two sorted lists (Leetcode) - [A novel approach](https://elgibbor.hashnode.dev/merge-two-sorted-lists-leetcode-21-a-novel-approach)
-## Github Stats  
+## Github Stats 📶  
  <p align="justify" width="100%">
      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=El-gibbor&theme=transparent&show_icons=true&locale=en" alt="Elgibbor's Github stats" width="auto" />
      <img valign="top" alt="Elggibor" src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-gibbor&theme=transparent&layout=compact&langs_count=8" width="auto"/>

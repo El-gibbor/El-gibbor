@@ -1,4 +1,5 @@
 <h3 align="center"><strong>Hi👋, your presence brings a smile to this virtual space!</strong></h3>
+</br>
 I'm <b>Chiagoziem Elgibbor</b>, a dedicated learner with a focus on software engineering.  
 </br>
 Most of my time are spent and specialized in juggling a diverse set of skills, including web engineering and task automations in Python and Bash, and also making my problem-solving skill more efficient through DSA in C low-level programing. To acquire these proficiencies, I employ an approach of self-study, project-based learning and practices from bootcamps like <a href="https://www.alxafrica.com/">Alx Africa</a>

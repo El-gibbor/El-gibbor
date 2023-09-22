@@ -1,8 +1,10 @@
 <h3 align="center"><strong>Hi👋, your presence brings a smile to this virtual space!</strong></h3>
-I'm <b>Chiagoziem Elgibbor</b>, a curious learner focused on understanding the underlying architecture of software engineering. 🧑🏻‍💻   
+I'm <b>Chiagoziem Elgibbor</b>, a dedicated learner with a focus on software engineering.  
+</br>
+Most of my time are spent and specialized in juggling a diverse set of skills, including web engineering and task automations in Python and Bash, and also making my problem-solving skill more efficient through DSA in C low-level programing. To acquire these proficiencies, I employ an approach of self-study, project-based learning and practices from bootcamps like <a href="https://www.alxafrica.com/">Alx Africa</a>
+.  
+It's always exciting to immerse myself in practical software engineering challenges, pushing the boundaries of my skills and knowledge. If you have exciting projects or resources to share, please feel free to reach out. I'm enthusiastic about contributing and learning from your expertise.  
 
-Most of my time are spent and specialized in juggling a diverse set of skills, including web engineering and task automations in Python and Bash, and also making my problem-solving skill more efficient through DSA in C low-level programing. To acquire these proficiencies, I employ an approach of self-study, project-based learning and practices from bootcamps like [Alx Africa](https://www.alxafrica.com/).  
-I am eager to gain hands-on experience and enhance my abilities as a software engineer. If you have any intriguing projects or resources that you believe would be a good fit for me, Please feel free to reach out to me. I would be thrilled to contribute and learn from your expertise.
 ### Connect with me  
 <a href="https://www.linkedin.com/in/elgibbor/"><img align="left" src="https://github.com/El-gibbor/El-gibbor/raw/main/images/linkedin.png" alt="Elgibbor | LinkedIn" width="23px"/></a>
 <a href="https://elgibbor.hashnode.dev/"><img align="left" src="https://github.com/El-gibbor/El-gibbor/raw/main/images/document.png" alt="Elgibbor | hashnode" width="23px"/></a>

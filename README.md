@@ -13,7 +13,6 @@ It's always exciting to immerse myself in practical software engineering challen
 ### Attentive Involvements (Interests & Pursuits) 💫  
 * Reading [Programming Logic and Design](https://www.amazon.com/Programming-Logic-Design-Introductory-Farrell/dp/1133526519)  
 * Mastering Python Object Relational Mapping - [SQLAchemy](https://docs.sqlalchemy.org/en/13/).  
-* Working on a Web application (Visitors and facilities management system) for Dubai Real Estate Center [DREC](https://www.drec.ae/).
 *  Leveraging the power and versatility of python Flask framework to try out robust projects.  
 ## Toolset 🛠  
 |Programming Lang. 🖥️|Scripting Lang.|Database🗄️|Frameworks|

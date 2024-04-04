@@ -8,7 +8,7 @@ It's always exciting to immerse myself in practical software engineering challen
 <a href="https://www.linkedin.com/in/elgibbor/"><img align="left" src="https://github.com/El-gibbor/El-gibbor/raw/main/images/linkedin.png" alt="Elgibbor | LinkedIn" width="23px"/></a>
 <a href="https://elgibbor.hashnode.dev/"><img align="left" src="https://github.com/El-gibbor/El-gibbor/assets/107848793/238d8698-e2d1-421e-88af-9b4807cb269b" alt="Elgibbor | hashnode" width="23px"/></a>
 <a href="https://twitter.com/Mr_Elgibbor/"><img align="left" src="https://github.com/El-gibbor/El-gibbor/raw/main/images/twitter.png" alt="Elgibbor | twitter" width="23px"/></a>
-<a href="https://instagram.com/chiagoziem94/"><img align="left" src="https://github.com/El-gibbor/El-gibbor/raw/main/images/instagram.png" alt="Elgibbor | instagram" width="23px"/></a>
+<a href="https://instagram.com/iam_elgibbor/"><img align="left" src="https://github.com/El-gibbor/El-gibbor/raw/main/images/instagram.png" alt="Elgibbor | instagram" width="23px"/></a>
 </br>
 ### Attentive Involvements (Interests & Pursuits) 💫  
 * Reading [Programming Logic and Design](https://www.amazon.com/Programming-Logic-Design-Introductory-Farrell/dp/1133526519)  

@@ -1,6 +1,6 @@
-### **Hi👋, I am Chiagoziem (El-gibbor) Eke!**
+### **Hi, I am Chiagoziem (El-gibbor) Eke!**
 Software Engineering Student @ [African Leadership University](https://www.alueducation.com) | Alumnus and Prev. Learning Ambassador @ [ALX Africa](https://www.alxafrica.com/)
-## 🔧 Building Solutions | 🚀 Automating Workflows | 🧠 Empowering Through Code  
+##  Building Solutions | Automating Workflows | Empowering Through Code  
 I’m a full-stack fanatic with an immense love for blending low-level systems mastery (C, Python) with modern web development (JavaScript, React). My journey spans:
 - [x] **Automating workflows:** Built Python scripts that reduced manual data entry by 70% for NGOs like Never Again Rwanda (NAR).
 - [x] **Teaching code:** Mentored 100+ students in C programming and Python as a Learning Ambassador at ALX Africa and Software Engineering mentorship support for the African Leadership University Learning Advancement Program (LEAP).  

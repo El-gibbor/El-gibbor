@@ -1,8 +1,9 @@
-### <div align="center">**Hi👋, your presence brings a smile to this virtual space!**</div>
-I'm **Chiagoziem Elgibbor**, a dedicated learner with a focus on software engineering.  
-Most of my time are spent and specialized in juggling a diverse set of skills, including web engineering and task automations in Python and Bash, and also making my problem-solving skill more efficient through DSA in C low-level programing. To acquire these proficiencies, I employ an approach of self-study, project-based learning and practices from bootcamps like [Alx Africa](https://www.alxafrica.com/).  
-<br>
-It's always exciting to immerse myself in practical software engineering challenges, pushing the boundaries of my skills and knowledge, so, if you have exciting projects or resources to share, please feel free to reach out. I'm enthusiastic about contributing and learning from your expertise.  
+### **Hi👋, I am Chiagoziem (El-gibbor) Eke!**
+Software Engineering Student @ [African Leadership University](https://www.alueducation.com) | Alumnus and Prev. Learning Ambassador @ [ALX Africa](https://www.alxafrica.com/)
+## 🔧 Building Solutions | 🚀 Automating Workflows | 🧠 Empowering Through Code  
+I’m a full-stack fanatic with an immense love for blending low-level systems mastery (C, Python) with modern web development (JavaScript, React). My journey spans:
+- [x] **Automating workflows:** Built Python scripts that reduced manual data entry by 70% for NGOs like Never Again Rwanda (NAR).
+- [x] **Teaching code:** Mentored 100+ students in C programming and Python as a Learning Ambassador at ALX Africa and Software Engineering mentorship support for the African Leadership University Learning Advancement Program (LEAP).  
 
 ### Connect with me  
 <a href="https://www.linkedin.com/in/elgibbor/"><img align="left" src="https://github.com/El-gibbor/El-gibbor/raw/main/images/linkedin.png" alt="Elgibbor | LinkedIn" width="23px"/></a>
@@ -10,15 +11,17 @@ It's always exciting to immerse myself in practical software engineering challen
 <a href="https://twitter.com/Mr_Elgibbor/"><img align="left" src="https://github.com/El-gibbor/El-gibbor/raw/main/images/twitter.png" alt="Elgibbor | twitter" width="23px"/></a>
 <a href="https://instagram.com/iam_elgibbor/"><img align="left" src="https://github.com/El-gibbor/El-gibbor/raw/main/images/instagram.png" alt="Elgibbor | instagram" width="23px"/></a>
 </br>
-### Attentive Involvements (Interests & Pursuits) 💫  
+### Interests & Pursuits 💫  
 * Reading [Programming Logic and Design](https://www.amazon.com/Programming-Logic-Design-Introductory-Farrell/dp/1133526519)  
-* Mastering Python Object Relational Mapping - [SQLAchemy](https://docs.sqlalchemy.org/en/13/).  
-*  Leveraging the power and versatility of python Flask framework to try out robust projects.  
-## Toolset 🛠  
-|Programming Lang. 🖥️|Scripting Lang.|Database🗄️|Frameworks|
+* Mastering Python Object Relational Mapping - [SQLAchemy](https://docs.sqlalchemy.org/en/13/).
+* Pursuing my BSc in Software Engineering while diving deep into DevOps, scalable systems, and AI-driven automation.
+## Technical Skills & Dev Tools  
+|Programming & Framworks|Scripting & Systems|Database|Markup & Styling| 
 |:-----:|:------:|:------:|:-------:|
-|Python|Python|MYSQL |Flask|
-| C language (DSA)| Bash|SqlAchemy (ORM)|
+|Python|Python|MYSQL|HTML
+|JavaScript|Bash|SQL|CSS
+| ReactJs| C Programing|SqlAchemy (ORM)|TailwindCSS|
+|Flask|||
   
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)

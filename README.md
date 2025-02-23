@@ -3,7 +3,7 @@ Software Engineering Student @ [African Leadership University](https://www.alued
 ##  Building Solutions | Automating Workflows | Empowering Through Code  
 I’m a full-stack fanatic with an immense love for blending low-level systems mastery (C, Python) with modern web development (JavaScript, React). My journey spans:
 - [x] **Automating workflows:** Built Python scripts that reduced manual data entry by 70% for NGOs like Never Again Rwanda (NAR).
-- [x] **Teaching code:** Mentored 100+ students in C programming and Python as a Learning Ambassador at ALX Africa and Software Engineering mentorship support for the African Leadership University Learning efficacy Advancement Program (LEAP).  
+- [x] **Teaching code:** Mentored over 100 C programming and Python students as a Learning Ambassador at ALX Africa and as a Software Engineering mentorship support at the African Leadership University Learning Efficacy Advancement Program (LEAP).  
 
 ### Connect with me  
 <a href="https://www.linkedin.com/in/elgibbor/"><img align="left" src="https://github.com/El-gibbor/El-gibbor/raw/main/images/linkedin.png" alt="Elgibbor | LinkedIn" width="23px"/></a>
